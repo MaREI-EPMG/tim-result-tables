@@ -1,0 +1,3 @@
+[submodule "tim-tables-info"]
+	path = tim-tables-info
+	url = git@github.com:MaREI-EPMG/tim-tables-info.git
